@@ -12,3 +12,6 @@ WinForms application for generating the direcotry listings:
 The finished HTML app:
 
 <img src="http://www.rlvision.com/snap2html/example.png">
+
+Added a dark theme:
+<img src= "https://github.com/mantered/Snap2HTML/blob/master/dark_theme_drakula.jpg">
